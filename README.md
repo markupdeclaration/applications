@@ -2,7 +2,7 @@
 
 ## Applications clarifying and showcasing the advantages of declarative markup
 
-The goals of the [Markup Declaration](http://www.markupdeclaration.org/) are to clarify and showcase the advantages of declarative markup. Although extensive real-world applications of declarative markup exist today, and millions of users already use XML (sometimes without knowing it), there is a lot to be done to explain and illustrate its advantages.
+The goals of the [Markup Declaration](https://markupdeclaration.org/) are to clarify and showcase the advantages of declarative markup. Although extensive real-world applications of declarative markup exist today, and millions of users already use XML (sometimes without knowing it), there is a lot to be done to explain and illustrate its advantages.
 
 The community at large can have a tremendous impact. Practitioners of declarative markup can share their knowledge through simple tutorials, lists of available resources, detailed descriptions of applications, or simply sharing their experiences of dos and don’ts.
 
