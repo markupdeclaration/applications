@@ -6,7 +6,7 @@ The goals of the [Markup Declaration](https://markupdeclaration.org/) are to cla
 
 The community at large can have a tremendous impact. Practitioners of declarative markup can share their knowledge through simple tutorials, lists of available resources, detailed descriptions of applications, or simply sharing their experiences of dos and don’ts.
 
-Let’s start by opening as many [issues]https://github.com//markupdeclaration/applications/issues) as possible and establish a definitive list of applications or tutorials that needs to be documented or enhanced to extend the convenient and everyday use of declarative markup. 
+Let’s start by opening as many [issues](https://github.com//markupdeclaration/applications/issues) as possible and establish a definitive list of applications or tutorials that needs to be documented or enhanced to extend the convenient and everyday use of declarative markup. 
 
 Please open one issue at a time, categorized by main subject. 
 
